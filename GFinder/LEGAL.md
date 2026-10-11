@@ -226,7 +226,7 @@ Without limitation, and cumulatively, we will pursue every unauthorized use by:
 - **Official channels only:**
   - GitHub: the **UCreations** organization —
     [https://github.com/UCreations/Legal](https://github.com/UCreations/Legal)
-  - Discord: the official server at **discord.gg/iidk** (linked in-app).
+  - Discord: the official server at **discord.gg/** (linked in-app).
 - Grants obtained anywhere else — imposters, comment sections, resellers, "leaked"
   agreements — are invalid, and relying on them infringes.
 - Licensing may be conditional (fee, scope, duration, branding requirements). A refusal
